@@ -3,7 +3,7 @@ mutiraopython_vpython
 
 Aplicação usada para apresentação do Mutirão Python - Introdução ao VPython
 
-* URL da apresentação: [Meu canal no Youtube](https://www.youtube.com/watch?feature=player_embedded&v=m-1DvF3Mr3s).*
+* URL da apresentação: [Introdução ao VPython](https://www.youtube.com/watch?feature=player_embedded&v=m-1DvF3Mr3s)
 
 <dl>
   <dt>Pasta Exemplos</dt>
@@ -18,20 +18,17 @@ Aplicação usada para apresentação do Mutirão Python - Introdução ao VPyth
 ----------
 
 * Funcionalidades:
-  * Interface gráfica full-screen contém:
-    * 1 canvas 3d:
-     * o atributo range do objeto display é 3
-            pois foi o melhor para visualizacao
-            dos textos 3D
-     * obs: o funcionamento normal é a cena ser montada auto-centralizada e
-                auto-escalada, e prejudicava a visualização dos textos
-    * 1 widget para simples edição de código com scrolls verticais e horizontais
-    * 4 botões:
-        * 'Run' - Executar códigos
-        * 'Voltar' - Retorna ao módulo python anterior
-        * 'Próximo' - Avança para o próximo módulo python
-        * 'Salvar' - Salvar o código no seu arquivo de origem
-    * A saída do programa dá-se apenas por alt-f4 ou ao clicar  no botão de fechar no canto direito superior da tela
+     * Interface gráfica full-screen contém:
+          * 1 canvas 3d:
+                    * o atributo range do objeto display é 3 pois foi o melhor para visualizacao dos textos 3D
+                    * obs: o funcionamento normal é a cena ser montada auto-centralizada e  auto-dimensionado, e prejudicava a visualização dos textos
+          * 1 widget para simples edição de código com scrolls verticais e horizontais
+          * 4 botões:
+                    * 'Run' - Executar códigos
+                    * 'Voltar' - Retorna ao módulo python anterior
+                    * 'Próximo' - Avança para o próximo módulo python
+                    * 'Salvar' - Salvar o código no seu arquivo de origem
+          * A saída do programa dá-se apenas por alt-f4 ou ao clicar  no botão de fechar no canto direito superior da tela
 
 * TODOS
   * prioridade Alta:
