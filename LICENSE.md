@@ -14,6 +14,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-Contact me at arcanosam@gmail.com or send me a letter at
-CA 5 LT D-3 Ed Varandas do Lago Norte I ap 311
-71.503-505 - Brasília/Lago Norte - DF
+Contact me at arcanosam@gmail.com
